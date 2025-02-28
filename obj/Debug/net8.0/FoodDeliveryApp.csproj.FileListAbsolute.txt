@@ -1,0 +1,344 @@
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\appsettings.Development.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\appsettings.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.staticwebassets.runtime.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.staticwebassets.endpoints.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.exe
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.deps.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.runtimeconfig.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.pdb
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Azure.Core.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Azure.Identity.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Humanizer.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.ClientModel.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.CodeDom.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Memory.Data.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Text.Json.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.csproj.AssemblyReference.cache
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.AssemblyInfoInputs.cache
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.AssemblyInfo.cs
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.csproj.CoreCompileInputs.cache
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.MvcApplicationPartsAssemblyInfo.cache
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.RazorAssemblyInfo.cache
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.RazorAssemblyInfo.cs
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\scopedcss\bundle\FoodDeliveryApp.styles.css
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\scopedcss\projectbundle\FoodDeliveryApp.bundle.scp.css
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.build.FoodDeliveryApp.props
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FoodDeliveryApp.props
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FoodDeliveryApp.props
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeli.00858F2B.Up2Date
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\refint\FoodDeliveryApp.dll
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.pdb
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.genruntimeconfig.cache
+E:\VSC#Project\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\ref\FoodDeliveryApp.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\appsettings.Development.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\appsettings.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.staticwebassets.runtime.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.staticwebassets.endpoints.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.exe
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.deps.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.runtimeconfig.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApp.pdb
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Azure.Core.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Azure.Identity.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Humanizer.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.ClientModel.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.CodeDom.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Memory.Data.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Text.Json.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.csproj.AssemblyReference.cache
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.AssemblyInfoInputs.cache
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.AssemblyInfo.cs
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.csproj.CoreCompileInputs.cache
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.MvcApplicationPartsAssemblyInfo.cache
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.RazorAssemblyInfo.cache
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.RazorAssemblyInfo.cs
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\scopedcss\bundle\FoodDeliveryApp.styles.css
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\scopedcss\projectbundle\FoodDeliveryApp.bundle.scp.css
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.build.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.development.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.FoodDeliveryApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.build.FoodDeliveryApp.props
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FoodDeliveryApp.props
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FoodDeliveryApp.props
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.pack.json
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeli.00858F2B.Up2Date
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\refint\FoodDeliveryApp.dll
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.pdb
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApp.genruntimeconfig.cache
+G:\SD 3.2 project\FoodDeliveryApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\net8.0\ref\FoodDeliveryApp.dll
