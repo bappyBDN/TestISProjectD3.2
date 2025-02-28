@@ -1,0 +1,116 @@
+﻿@model HomeChefHub.Models.Chef
+@{
+    ViewData["Title"] = "Chef Sign Up";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styles_chef.css"> 
+</head>
+<body>
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div class="alert-danger">@ViewBag.ErrorMessage</div>
+    }
+    <div class="container">
+       
+        <!-- Left Panel with Branding -->
+        <div class="left-panel">
+            <div class="overlay">
+                <h1 class="logo">Home Chef Hub</h1>
+                <p>Join our community of talented chefs!</p>
+            </div>
+        </div>
+
+        <!-- Right Panel with Form -->
+        <div class="right-panel">
+            <div class="form-box">
+                <h2>REGISTER</h2>
+                <p>CHEF..! IT'S YOUR PLACE</p>
+
+                @if (ViewBag.ErrorMessage != null)
+                {
+                    <div class="alert-danger">@ViewBag.ErrorMessage</div>
+                }
+
+                <form asp-action="SignUp" method="post">
+                    @Html.AntiForgeryToken()
+                    <input asp-for="Name" placeholder="Name" required />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+
+                    <input asp-for="Email" placeholder="Email Address" required />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+
+                    <input asp-for="Phone" placeholder="Phone Number" required />
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+
+                    <input asp-for="NID" placeholder="NID Number" required />
+                    <span asp-validation-for="NID" class="text-danger"></span>
+
+                    <input asp-for="Password" type="password" placeholder="Password" required />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+
+                    <button type="submit">CREATE ACCOUNT</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Include validation scripts at the bottom of the page -->
+    <partial name="_ValidationScriptsPartial" />
+</body>
+</html>
+@* @model HomeChefHub.Models.Chef
+
+@{
+    ViewData["Title"] = "Chef Sign Up";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">User Sign Up</h2>
+
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+    }
+
+    <form asp-action="Signup" method="post" class="w-50 mx-auto">
+        @Html.AntiForgeryToken()
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control" required />
+            @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email</label>
+            <input asp-for="Email" class="form-control" required />
+            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Phone" class="form-label">Phone Number</label>
+            <input asp-for="Phone" class="form-control" required />
+            @Html.ValidationMessageFor(m => m.Phone, "", new { @class = "text-danger" })
+        </div>
+        <div class="mb-3">
+            <label asp-for="NID" class="form-label">NID Number</label>
+            <input asp-for="NID" class="form-control" required />
+            @Html.ValidationMessageFor(m => m.NID, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label">Password</label>
+            <input asp-for="Password" type="password" class="form-control" required />
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">Sign Up</button>
+    </form>
+</div>
+ *@

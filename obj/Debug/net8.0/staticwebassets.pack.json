@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeChefHub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HomeChefHub.1hfqgjjaml.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\styles_chef.css",
+      "PackagePath": "staticwebassets\\css\\styles_chef.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\styles_cum.css",
+      "PackagePath": "staticwebassets\\css\\styles_cum.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\css\\styles_login_chef.css",
+      "PackagePath": "staticwebassets\\css\\styles_login_chef.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\food-background.png",
+      "PackagePath": "staticwebassets\\img\\food-background.png"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\food-background1.png",
+      "PackagePath": "staticwebassets\\img\\food-background1.png"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\food-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\food-bg.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\hero.png",
+      "PackagePath": "staticwebassets\\img\\hero.png"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-4.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-5.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-6.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-7.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-8.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\img\\video.jpg"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\project_3.2\\HomeChefHub\\HomeChefHub\\HomeChefHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HomeChefHub.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HomeChefHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HomeChefHub.props",
+      "PackagePath": "build\\HomeChefHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HomeChefHub.props",
+      "PackagePath": "buildMultiTargeting\\HomeChefHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HomeChefHub.props",
+      "PackagePath": "buildTransitive\\HomeChefHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

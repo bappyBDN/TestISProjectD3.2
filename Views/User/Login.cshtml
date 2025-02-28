@@ -1,0 +1,46 @@
+﻿@model HomeChefHub.Models.Chef
+
+@{
+    ViewData["Title"] = "Chef Login";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chef Login</title>
+    <link rel="stylesheet" href="~/css/styles_cum.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Left Panel with Branding -->
+        <div class="left-panel">
+            <div class="overlay">
+                <p>Welcome, login to your account!</p>
+            </div>
+        </div>
+
+        <!-- Right Panel with Login Form -->
+        <div class="right-panel">
+            <div class="form-box">
+                <h2>LOGIN</h2>
+                <p>Welcome back! Enter your credentials.</p>
+
+                @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+                {
+                    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+                }
+
+                <form asp-action="Login" method="post">
+                    @Html.AntiForgeryToken()
+                    <input type="email" name="email" placeholder="Email Address" required>
+                    <input type="password" name="password" placeholder="Password" required>
+                    <button type="submit">LOGIN</button>
+                    <p class="register-link">New here? <a href="@Url.Action("Signup", "User")">Create an account</a></p>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,57 @@
+﻿@model HomeChefHub.Models.User
+
+@{
+    ViewData["Title"] = "Customer Registration";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Registration</title>
+    <link rel="stylesheet" href="~/css/styles_cum.css" asp-append-version="true">
+</head>
+<body>
+    <div class="container">
+        <div class="form-box">
+            <h2>Register Now</h2>
+
+            @if (ViewBag.ErrorMessage != null)
+            {
+                <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+            }
+
+            <form asp-action="Register" method="post">
+                @Html.AntiForgeryToken()
+
+                <div class="input-group">
+                    <input asp-for="Name" type="text" required>
+                    <label asp-for="Name">Full Name</label>
+                    @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="input-group">
+                    <input asp-for="Email" type="email" required>
+                    <label asp-for="Email">Email</label>
+                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="input-group">
+                    <input asp-for="Phone" type="tel" required>
+                    <label asp-for="Phone">Phone Number</label>
+                    @Html.ValidationMessageFor(m => m.Phone, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="input-group">
+                    <input asp-for="Password" type="password" required>
+                    <label asp-for="Password">Password</label>
+                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                </div>
+
+                <button type="submit" class="btn">Register</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

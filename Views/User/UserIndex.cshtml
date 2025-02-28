@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "User Dashboard";
+    string userEmail = Context.Session.GetString("UserEmail") ?? "Guest";
+}
+
+<div class="container mt-5">
+    <!-- User Greeting -->
+    <h2 class="text-center">Welcome, @userEmail</h2>
+    <p class="text-center">Browse and add your favorite items to the cart.</p>
+
+    <!-- Search Bar -->
+    <div class="row justify-content-center my-4">
+        <div class="col-md-6">
+            <input type="text" id="searchInput" class="form-control" placeholder="Search for items...">
+        </div>
+    </div>
+
+    <!-- Items List -->
+    <div class="row">
+        @if (ViewBag.Items != null && ViewBag.Items.Any())
+        {
+            foreach (var item in ViewBag.Items)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <img src="@item.ImageUrl?" class="card-img-top" alt="@item.Name">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@item.Name</h5>
+                            <p class="card-text">Price: $@item.Price</p>
+                            <button class="btn btn-success add-to-cart" data-id="@item.Id">Add to Cart</button>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p class="text-center">No items available.</p>
+        }
+    </div>
+
+    <!-- Logout Button -->
+    <div class="text-center mt-4">
+        <a asp-action="Logout" class="btn btn-danger">Logout</a>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        document.querySelectorAll('.add-to-cart').forEach(button => {
+            button.addEventListener("click", function() {
+                let itemId = this.getAttribute("data-id");
+                alert("Item " + itemId + " added to cart!");
+            });
+        });
+    });
+</script>
